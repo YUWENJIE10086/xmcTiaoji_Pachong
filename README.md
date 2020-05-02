@@ -63,9 +63,8 @@ def main():
 
 ### 三、效果图
 
-![](https://s1.ax1x.com/2020/04/09/GhfDRe.png)
-
-![](https://s1.ax1x.com/2020/04/09/Ghf0PO.png)
+爬取了经济学门类的调剂信息：
+![](https://i.loli.net/2020/05/02/Hoc9ypRMz3bSF2D.png)
 
 ### 附
 
